@@ -1,8 +1,8 @@
 
 <nav>
-           <br> <a href="https://adtypthk.github.io/Home/">Home</a> </br>
-           <br> <a href="https://adtypthk.github.io/Experiments/">Experiments</a> </br> 
-           <br> <a href="https://adtypthk.github.io/Ideas">Ideas</a> </br>
+            <a href="https://adtypthk.github.io/Home/">Home</a> 
+           <a href="https://adtypthk.github.io/Experiments/">Experiments</a> 
+           <a href="https://adtypthk.github.io/Ideas">Ideas</a> 
            
  </nav>
 
