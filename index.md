@@ -1,12 +1,13 @@
 
 <nav>
-            <a href="/">Home</a>
+           <ul>
+           <li> <a href="https://adtypthk.github.io/Home/">Home</a> </li>
+           
+           <li> <a href="https://adtypthk.github.io/Experiments/">Experiments</a> </li>
             
-            <a href="/about">About</a>
-            
-            <a href="/research">Latest News</a>
-            
-            <a href="/people">Participants</a>
+           <li> <a href="https://adtypthk.github.io/Ideas">Ideas</a> </li>
+           
+           </ul>
            
           </nav>
 
