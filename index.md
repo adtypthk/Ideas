@@ -1,13 +1,13 @@
 
 <nav>
             <a href="/">Home</a>
+            
             <a href="/about">About</a>
+            
             <a href="/research">Latest News</a>
+            
             <a href="/people">Participants</a>
-            <a href="/publications">Reference Manual</a>
-            <a href="/jobs">Supplementary Material</a>
-            <a href="/contact">Contact</a>
-            <a href="/fun">Fun!</a>
+           
           </nav>
 
 
