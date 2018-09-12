@@ -1,15 +1,10 @@
 
 <nav>
-           <ul>
-           <li> <a href="https://adtypthk.github.io/Home/">Home</a> </li>
+           <br> <a href="https://adtypthk.github.io/Home/">Home</a> </br>
+           <br> <a href="https://adtypthk.github.io/Experiments/">Experiments</a> </br> 
+           <br> <a href="https://adtypthk.github.io/Ideas">Ideas</a> </br>
            
-           <li> <a href="https://adtypthk.github.io/Experiments/">Experiments</a> </li>
-            
-           <li> <a href="https://adtypthk.github.io/Ideas">Ideas</a> </li>
-           
-           </ul>
-           
-          </nav>
+ </nav>
 
 
 
